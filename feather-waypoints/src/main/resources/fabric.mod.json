@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "featherwaypoints",
+  "version": "${version}",
+
+  "name": "ATPoint",
+  "description": "A lightweight waypoint mod for enhanced navigation and location management",
+  "authors": [
+    "Mr.Aayush Bhandari"
+  ],
+  "contact": {
+    "homepage": "https://example.com/",
+    "sources": "https://github.com/example/feather-waypoints"
+  },
+
+  "license": "MIT",
+  "icon": "assets/featherwaypoints/icon.png",
+
+  "environment": "client",
+
+  "entrypoints": {
+    "client": [
+      "com.featherwaypoints.FeatherWaypointsClient"
+    ]
+  },
+
+  "mixins": [
+    "featherwaypoints.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

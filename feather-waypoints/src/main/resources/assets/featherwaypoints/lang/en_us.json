@@ -1,0 +1,28 @@
+{
+  "key.featherwaypoints.open_waypoints": "Open Waypoints",
+  "key.featherwaypoints.add_waypoint": "Add Waypoint",
+  "category.featherwaypoints.waypoints": "ATPoint",
+  
+  "gui.featherwaypoints.waypoints": "Waypoints",
+  "gui.featherwaypoints.add_waypoint": "Add Waypoint",
+  "gui.featherwaypoints.edit_waypoint": "Edit Waypoint",
+  "gui.featherwaypoints.search": "Search waypoints...",
+  "gui.featherwaypoints.name": "Name:",
+  "gui.featherwaypoints.coordinates": "Coordinates:",
+  "gui.featherwaypoints.color": "Color:",
+  "gui.featherwaypoints.group": "Group:",
+  "gui.featherwaypoints.current_pos": "Current Pos",
+  "gui.featherwaypoints.add": "Add",
+  "gui.featherwaypoints.save": "Save",
+  "gui.featherwaypoints.cancel": "Cancel",
+  "gui.featherwaypoints.delete": "Delete",
+  "gui.featherwaypoints.edit": "Edit",
+  "gui.featherwaypoints.done": "Done",
+  "gui.featherwaypoints.clear_all": "Clear All",
+  
+  "text.featherwaypoints.waypoint_added": "Waypoint added: %s",
+  "text.featherwaypoints.waypoint_removed": "Waypoint removed: %s",
+  "text.featherwaypoints.overworld": "Overworld",
+  "text.featherwaypoints.nether": "Nether",
+  "text.featherwaypoints.end": "End"
+}
